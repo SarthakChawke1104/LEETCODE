@@ -13,6 +13,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0086-partition-list) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0234-palindrome-linked-list) |
