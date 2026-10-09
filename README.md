@@ -13,6 +13,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
@@ -38,6 +39,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0143-reorder-list) |
@@ -50,4 +52,8 @@
 | [0143-reorder-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
