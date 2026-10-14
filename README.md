@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0066-plus-one) |
 ## Divide and Conquer
 |  |
 | ------- |
