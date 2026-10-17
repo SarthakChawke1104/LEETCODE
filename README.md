@@ -55,6 +55,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -75,4 +76,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
