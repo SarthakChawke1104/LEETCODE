@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0066-plus-one) |
+| [0682-baseball-game](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0020-valid-parentheses](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
