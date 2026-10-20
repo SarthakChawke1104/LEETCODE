@@ -60,6 +60,7 @@
 | [0143-reorder-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SarthakChawke1104/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SarthakChawke1104/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
