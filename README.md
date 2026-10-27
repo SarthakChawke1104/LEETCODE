@@ -10,6 +10,7 @@
 | [0496-next-greater-element-i](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/SarthakChawke1104/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0503-next-greater-element-ii](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SarthakChawke1104/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/SarthakChawke1104/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
@@ -105,5 +107,6 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SarthakChawke1104/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/SarthakChawke1104/LEETCODE/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SarthakChawke1104/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
